@@ -1,0 +1,13 @@
+Crie um algoritmo que determine o personagem mais poderoso em Dragon Ball,
+dadas as variáveis 'poderGoku', 'poderVegeta' e 'PoderGohan', que 
+representam o poder de cada personagem. 
+
+Use os operadores lógicos para comparar as variáveis e decidir qual personagem
+é mais forte.
+
+O programa deve exibir uma mensagem indicando o personagem mais poderoso,
+ou uma mensagem de empate caso haja pelo menos dois personagens como 
+o mesmo poder
+
+Dica: use declarações condicionais if e else para comparar as variáveis 
+e exibir a mensagem apropriada na tela.
